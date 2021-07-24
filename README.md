@@ -1,6 +1,7 @@
 # bmi_calculator
 
-A new Flutter project.
+
+project that a learn form https://github.com/londonappbrewery/Flutter-Course-Resources.
 
 ## Getting Started
 
